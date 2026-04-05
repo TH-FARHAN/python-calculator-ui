@@ -9,3 +9,6 @@ A simple GUI calculator built using Python.
 
 ## ▶️ Run
 python calculator.py
+
+## 📸 Screenshot
+![Calculator](screenshot.png,screenshot2.png)
